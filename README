@@ -1,0 +1,1 @@
+"WithProbability" is a function designed to allow a programmer to easily use statistical p-values in their code without having to get their hands dirty. A boolean true is returned with an approximate frequency of p. A driver program is included.
